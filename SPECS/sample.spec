@@ -7,7 +7,7 @@ BuildArch:      noarch
 Group:		Develpment/Tools
 License:        GPL
 URL:            http://localhost
-Source0:        sample-1.tar.gz
+Source0:        /root/rpmbuild/SOURCES/sample-1.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 

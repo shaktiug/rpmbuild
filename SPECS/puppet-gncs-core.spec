@@ -7,7 +7,7 @@ BuildArch:      noarch
 Group:		Develpment/Tools
 License:        GPL
 URL:            http://localhost//
-Source0:        puppet-gncs-core.tar.gz
+Source0:        /root/rpmbuild/SOURCES/puppet-gncs-core.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-buildroot
 
 
